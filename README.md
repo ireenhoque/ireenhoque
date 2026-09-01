@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="./github-banner-2.png" alt="My Profile Banner" width="100%">
+</p>
+
+# Hi there, I'm Ireen Hoque! 👋
+Welcome to my GitHub profile...
 
 <!--
 **ireenhoque/ireenhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
