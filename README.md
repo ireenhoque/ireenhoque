@@ -3,19 +3,16 @@
 </p>
 
 # Hi there, I'm Ireen Hoque! 👋
-Welcome to my GitHub profile...
+Aspiring Full-Stack Developer
 
-<!--
-**ireenhoque/ireenhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me:
+Hi, I'm Ireen Hoque, an aspiring Full-Stack Developer currently on a journey to build a career in web development. I'm from Cumilla, Chattogram Division, Bangladesh.
+I recently completed my postgraduate degree in Bangladesh Studies at the University of Chittagong. Although my academic background is different from technology, I discovered an interest in programming and web development and decided to pursue this new career path. I enjoy learning new technologies, solving problems, and challenging myself to improve every day.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Currently Doing:
+🌱 Currently learning React.js
+💻 Building projects to strengthen my frontend development skills
+🧠 Practicing JavaScript and TypeScript
+🎯 Working toward becoming a Full-Stack Developer
+📚 Continuously learning new web development concepts and technologies
+⚡ Improving my problem-solving and clean coding skills
