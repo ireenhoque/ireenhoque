@@ -26,7 +26,7 @@ I recently completed my postgraduate degree in Bangladesh Studies at the Univers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/18rankfivv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18rankfivv/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/18rANkfiVV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ireen hoque urmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
