@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Ireen Hoque</h1>
 <h3 align="center">An aspiring Full-Stack Developer.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and TypeScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript React.js, Next.js and Authentication**
 
 - 📫 How to reach me **ireenhoque.ph@gmail.com**
 
@@ -16,7 +16,7 @@ Hi, I'm Ireen Hoque, an aspiring Full-Stack Developer currently on a journey to 
 I recently completed my postgraduate degree in Bangladesh Studies at the University of Chittagong. Although my academic background is different from technology, I discovered an interest in programming and web development and decided to pursue this new career path. I enjoy learning new technologies, solving problems, and challenging myself to improve every day.
 
 🚀 What I'm Currently Doing:
-🌱 Currently learning React.js
+🌱 Currently learning Node.js
 💻 Building projects to strengthen my frontend development skills
 🧠 Practicing JavaScript and TypeScript
 🎯 Working toward becoming a Full-Stack Developer
