@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./github-cover.png"
+    alt="Ireen Hoque - Full-Stack Web Developer"
+    width="100%"
+  />
+</p>
 # Hi, I'm Ireen Hoque 👋
 
 ### Full-Stack Web Developer | Building Modern Web Applications
@@ -65,8 +72,8 @@ I use GitHub to manage my projects, practice version control, explore new techno
 ### 🤝 Connect With Me
 
 - GitHub: [@ireenhoque](https://github.com/ireenhoque)
-- LinkedIn: https://www.linkedin.com/in/ireen-hoque/
-- Portfolio: https://my-portfolio-iota-ten-13.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ireen-hoque
+- Portfolio: https://my-portfolio-iota-ten-13.vercel.app
 - Email: ireenhoque.ph@gmail.com
 
 ---
